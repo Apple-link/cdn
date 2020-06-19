@@ -27,7 +27,7 @@ botui.message.bot({
 }).then(function() {
     return botui.message.bot({
         delay: 1000,
-        content: "这里是 木浔与森"
+        content: "这里是 雾时之森"
     })
 }).then(function() {
     return botui.message.bot({
